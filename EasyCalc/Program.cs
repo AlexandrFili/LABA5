@@ -48,7 +48,7 @@ namespace EasyCalc
                         Console.WriteLine("Ошибка!" +" На ноль делить нельзя!");
                     }
                     else
-                    Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
+                    Console.WriteLine("Деление  " + a + " на " + b + " равно " + total + ".");
                 }
                 else
                 {
