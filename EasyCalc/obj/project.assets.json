@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj",
+      "projectUniqueName": "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj",
       "projectName": "EasyCalc",
-      "projectPath": "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj",
+      "projectPath": "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "G:\\учеба\\Проги\\EasyCalc\\obj\\",
+      "outputPath": "C:\\GithubProjects\\LABA5\\EasyCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
