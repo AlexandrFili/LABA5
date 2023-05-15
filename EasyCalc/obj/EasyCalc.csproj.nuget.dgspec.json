@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj": {}
+    "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj": {}
   },
   "projects": {
-    "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj": {
+    "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj",
+        "projectUniqueName": "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj",
         "projectName": "EasyCalc",
-        "projectPath": "C:\\GithubProjects\\LABA5\\EasyCalc\\EasyCalc.csproj",
+        "projectPath": "G:\\учеба\\Проги\\EasyCalc\\EasyCalc.csproj",
         "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-        "outputPath": "C:\\GithubProjects\\LABA5\\EasyCalc\\obj\\",
+        "outputPath": "G:\\учеба\\Проги\\EasyCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
