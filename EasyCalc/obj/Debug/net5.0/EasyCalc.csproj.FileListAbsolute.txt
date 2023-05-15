@@ -1,0 +1,16 @@
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.exe
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.deps.json
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.runtimeconfig.json
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.runtimeconfig.dev.json
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.dll
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\ref\EasyCalc.dll
+G:\учеба\Проги\EasyCalc\bin\Debug\net5.0\EasyCalc.pdb
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.csproj.AssemblyReference.cache
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.GeneratedMSBuildEditorConfig.editorconfig
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.AssemblyInfoInputs.cache
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.AssemblyInfo.cs
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.csproj.CoreCompileInputs.cache
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.dll
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\ref\EasyCalc.dll
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.pdb
+G:\учеба\Проги\EasyCalc\obj\Debug\net5.0\EasyCalc.genruntimeconfig.cache
