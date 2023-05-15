@@ -13,15 +13,30 @@ namespace EasyCalc
                 double b;
                 double total;
                 char oper;
-
-                Console.WriteLine("Введите первое число:");
-                a = Convert.ToDouble(Console.ReadLine());
+                try
+                {
+                    Console.WriteLine("Введите первое число:");
+                    a = Convert.ToDouble(Console.ReadLine());
+                }
+                catch(FormatException e)
+                {
+                    Console.WriteLine(e.Message);
+                    return;
+                }
 
                 Console.WriteLine("Введите оператор:");
                 oper = Convert.ToChar(Console.ReadLine());
 
-                Console.WriteLine("Введите второе число:");
-                b = Convert.ToDouble(Console.ReadLine());
+                try
+                {
+                    Console.WriteLine("Введите второе число:");
+                    b = Convert.ToDouble(Console.ReadLine());
+                }
+                catch (FormatException e)
+                {
+                    Console.WriteLine(e.Message);
+                    return;
+                }
 
                 if (oper == '+')
                 {
