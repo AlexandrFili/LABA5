@@ -59,7 +59,14 @@ namespace EasyCalc
                 else if (oper == '/')
                 {
                     total = a / b;
-                    Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
+
+
+                    if (b == 0) {
+                        Console.WriteLine("Ошибка!" +" На ноль делить нельзя!");
+                    }
+                    else
+                    Console.WriteLine("Деление  " + a + " на " + b + " равно " + total + ".");
+
                 }
                 else
                 {
